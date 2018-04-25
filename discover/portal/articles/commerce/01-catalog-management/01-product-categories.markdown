@@ -36,7 +36,7 @@ To add a product to one or more categories:
 1.  Go to the catalog, select a product, and open its *Categorization* tab.
 
 2.  Click on the *Select* button under the label for the appropriate vocabulary,
-    and in the pop-up that appears the check the box next to each category that
+    and in the pop-up that appears check the box next to each category that
     applies.
 
 3.  Click Save.
@@ -63,7 +63,7 @@ category content.
 
 The category display page is a feature that creates a relationship between
 a category and a specified page. This relationship makes it easy to display and
-organize content or applications related to to that category, as changes made
+organize content or applications related to that category, as changes made
 to the category will be automatically reflected on the page. A typical use case
 might involve using the page to display category content for customers.
 
@@ -93,7 +93,7 @@ category content. They can be easily updated by publishing a new category
 image.
 
 Category images can also be displayed dynamically: you can designate a page to
-display content--including category images for whatever category a user is
+display content&mdash;including category images for whatever category a user is
 searching for. See
 [category detail page](/discover/portal/-/knowledge_base/7-1/category-detail-page)
 for more information.

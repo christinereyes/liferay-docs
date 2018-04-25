@@ -20,7 +20,7 @@ Follow these steps to create a product image:
    [options](/web/liferay/emporio/documentation/-/knowledge_base/7-1/options)
    for details on option templates and option values). Select an option value
    from the drop-down menu to associate the image with all of the product
-   variants to which that value is assigned.If multiple option templates are
+   variants to which that value is assigned. If multiple option templates are
    active, you can select multiple values to associate the image only with that
    combination of options.
 

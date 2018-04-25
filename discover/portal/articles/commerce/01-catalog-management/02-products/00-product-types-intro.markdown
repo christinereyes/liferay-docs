@@ -7,7 +7,7 @@ inventory is tracked. Almost any physical item can be a simple product.
 
 **Grouped Products:** A grouped product consists of two or more products from
 the catalog, packaged together to be sold as a single item.  Grouped products
-are not tracked in inventory--instead, the catalog tracks all of the products
+are not tracked in inventory&mdash;instead, the catalog tracks all of the products
 contained in the group individually. A grouped product can contain simple
 products, other grouped products, or virtual products.
 
@@ -32,8 +32,8 @@ To create a product:
 **Title**: Name your product. This is the only required field.
 
 **Short Description**: Enter an abstract of the product's full description if
-you need to display brief version. Text entered here could be displayed where
-the product appears in thumbnail form or in search results--anywhere space is
+you need to display a brief version. Text entered here could be displayed where
+the product appears in thumbnail form or in search results&mdash;anywhere space is
 limited.
 
 **Full Description**: This text would typically be displayed to customers on the
@@ -64,22 +64,22 @@ from customers' view.
     step 1.
 
     **For a Simple Product**, there is no additional information to enter. When
-    you create simple product, the standard product tab bar is displayed,
+    you create a simple product, the standard product tab bar is displayed,
     starting with a *Details* tab where you can edit entries from the *Add
     Product* form.
 
     **When a Grouped Product** is created, you need to specify the products that
-    it will contain. A grouped product has an extra tab--*Grouped*--in its
+    it will contain. A grouped product has an extra tab&mdash;*Grouped*&mdash;in its
     product tab bar. From that tab, click on the
     ![Add](../../../../images/icon-add.png) button in the upper-right to select
     any number of products. Once products have been added to the group, they can
     be edited individually (![options](../../../../images/icon-options.png)
     &rarr; *Edit*) to set a quantity and a priority (priority indicates the
-    order in which items will be displayed--lower numbers come first).
+    order in which items will be displayed&mdash;lower numbers come first).
 
     ![Figure 1: The features that make a grouped product unique can be conveniently found in the *Grouped* tab.](../../../../images/grouped-product.png)
 
-    **A Virtual Product** also has an extra tab--*Virtual*--in its product tab
+    **A Virtual Product** also has an extra tab&mdash;*Virtual*&mdash;in its product tab
     bar. The *Virtual* tab contains the following fields which should be filled
     in if applicable:
 

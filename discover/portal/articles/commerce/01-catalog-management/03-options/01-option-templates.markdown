@@ -1,7 +1,7 @@
 # Option Templates 
 
 To create an option and apply it to a product, you must first create an option
-template. Once created, and option template can be assigned to any product in the catalog.
+template. Once created, an option template can be assigned to any product in the catalog.
 
 ## Creating an Option Template
 
@@ -28,7 +28,7 @@ box.
 each. Since radio buttons cannot be deselected, this field type should be be
 used for options where a selection is not required.
 
--*Date:* This field type prompts buyers to select a specific date--applicable
+-*Date:* This field type prompts buyers to select a specific date&mdash;applicable
 for services, deliveries, and the like. It does not take option values.
 
 -*Checkbox:* This type displays a checkbox next to the option template. It does
@@ -36,7 +36,7 @@ not does not take option values. It is useful where an option is a simple
 binary, such as "gift-wrap".
 
 -*checkbox_multiple:* This type displays a checkbox next to each option value.
-This allows more than one value to be selected for a single template--useful for
+This allows more than one value to be selected for a single template&mdash;useful for
 offering a choice among add-ons or accessories.
 
 -*Numeric:* This type displays a field where a number can be entered, for
@@ -82,7 +82,7 @@ To assign an option template to a product, follow these steps:
 ## Editing an option template at the product scope
 
 Once an option template has been assigned to a product, you can make changes to
-it that only affect that product--other products that assign the same template
+it that only affect that product&mdash;other products that assign the same template
 will not be affected. Follow these steps:
 
 1.  Go to the catalog, select the product in question, and open the *Options*
@@ -95,6 +95,6 @@ will not be affected. Follow these steps:
 3.  Make changes to the *Option Detail* form on the right side of the page and
     then hit *save*. The form contains most of the information that was entered
     when the template was created, but includes a *Priority* field. Priority
-    indicates where on a page the option will be displayed--lower numbers come
+    indicates where on a page the option will be displayed&mdash;lower numbers come
     first.
 

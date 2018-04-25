@@ -20,7 +20,7 @@ all.
 **Scope:** When an option template is created, it is scoped to the catalog. This
 means that the template's configuration is applied to every product that deploys
 it. However, when you deploy a template to an individual product, you can make
-changes to the template that are scoped only to that product--other products in
+changes to the template that are scoped only to that product&mdash;other products in
 the catalog will not be affected.
 
 Option values can be scoped either to an option template or to a product. Values

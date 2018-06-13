@@ -10,7 +10,7 @@ units used by the catalog and by the
 [variable-rate shipping method](/web/liferay-emporio/documentation/-/knowledge_base/7-1/variable-weight-shipping). 
 
 If you use Courier Shipping to integrate your shipping cost calculations with
-shipping providers system, you'll need to have the units used by that provider
+another shipping providers system, you'll need to have the units used by that provider
 defined as well. If the provider uses units that are different from your
 primary, the conversion will be handled automatically.
 
@@ -19,7 +19,7 @@ primary, the conversion will be handled automatically.
 Follow these steps:
 
 1.  Go to *Site Menu* &rarr; *Commerce* &rarr; *Settings* and click on the
-    *Measurement Units* tab. The select the appropriate sub-tab for either
+    *Measurement Units* tab. Then select the appropriate sub-tab for either
     *Dimensions* or *Weight*.
 
 2.  Click the ![Add](../../images/icon-add.png) button and fill in the following
@@ -61,6 +61,6 @@ these steps to set another unit as primary:
 4.  Once a new primary has been set, you must reset the other unit's ratios.
     Click on the ![Options](../../images/icon-options.png) button next to each
     unit, click *Edit*, and change the *Ratio to* value to reflect the new
-    primary. (The ratio should indicate the number secondary units that are
+    primary. (The ratio should indicate the number of secondary units that are
     equal to one primary. If the primary is *kilogram*, the ratio would be 1000
     for *gram* and 0.001 for *metric ton*).

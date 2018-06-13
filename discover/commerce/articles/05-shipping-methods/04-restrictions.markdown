@@ -18,7 +18,7 @@ world. Follow these steps to limit a shipping method to specified countries:
     to each country for which you want to permit shipping by this method. Click
     *Add*.
 
-These restrictions apply to all shipping options that method, but not to options
+These restrictions apply to all shipping options of that method, but not to options
 of any other method.
 
 To permit shipping to all countries, it is not necessary to list each one
